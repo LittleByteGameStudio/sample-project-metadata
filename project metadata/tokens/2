@@ -1,1 +1,25 @@
-
+{
+  "id": 2,
+  "image": "https://i.ibb.co/MZVSv9F/Gem-Crate-Revised-Complete-1a.png",
+  "token_id": "2",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Echoes Below Test 2 zkEVM NFT",
+  "description": "Breakable Gem Crate From Lost Assassin",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Wood",
+      "value": "Breakable"
+    },
+    {
+      "trait_type": "Loot Box",
+      "value": "Resource Collection"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Can be Thrown"
+    }
+  ]
+}
