@@ -1,1 +1,25 @@
-
+{
+  "id": 1,
+  "image": "https://i.ibb.co/nbd7jXn/image-2023-11-14-09-42-47.png",
+  "token_id": "1",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Echoes Below Test zkEVM NFT",
+  "description": "This NFT is the mining machine from Lost Assassin",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Metal",
+      "value": "Bullet Sponge"
+    },
+    {
+      "trait_type": "Mining",
+      "value": "Resource Collection"
+    },
+    {
+      "trait_type": "Weapon",
+      "value": "Cutter"
+    }
+  ]
+}
