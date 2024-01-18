@@ -1,1 +1,6 @@
-
+{
+  "name": "Echoes Below Test zkEVM Collection",
+  "description": "This collection is my first zkEVM collection created on Immutable",
+  "image": "your_image_url",
+  "external_link": "littlebyte.com.au" 
+}
