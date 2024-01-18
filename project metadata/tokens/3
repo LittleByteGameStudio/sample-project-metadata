@@ -1,1 +1,25 @@
-
+{
+  "id": 3,
+  "image": "https://i.ibb.co/7CNjBR2/Rocket-1a.png",
+  "token_id": "3",
+  "background_color": null,
+  "animation_url": null,
+  "youtube_url": null,
+  "name": "Echoes Below Test 3 zkEVM NFT",
+  "description": "Rocket Projectile From Lost Assassin",
+  "external_url": null,
+  "attributes": [
+    {
+      "trait_type": "Projectile",
+      "value": "Rocket Ammunition"
+    },
+    {
+      "trait_type": "Pickup",
+      "value": "Store In Inventory"
+    },
+    {
+      "trait_type": "Explosive",
+      "value": "Cause Direct And Splash damage"
+    }
+  ]
+}
